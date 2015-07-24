@@ -1,8 +1,8 @@
-## The first funciton 'makeCacheMatrix' returns a matrix with extended functionality for caching its inverse
+## The first function 'makeCacheMatrix' returns a matrix with extended functionality for caching its inverse
 
-## The second function 'cacheSolve' returns the inverse of matrix stored in makeCacheMatrix object. If the 
-## inverse is already calculated anc cached, 'cacheSolve' just fetches it, otherwise it calculates the inverse
-## matrix and caches the inverse in the 'makeCacheMatrix' object.
+## The second function 'cacheSolve' returns the inverse of matrix stored in 'makeCacheMatrix' object. If the 
+## inverse is already calculated and cached, 'cacheSolve' just fetches it, otherwise it calculates the inverse
+## matrix and caches the inverse in the 'makeCacheMatrix' object if needed later.
 
 
 
